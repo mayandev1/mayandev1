@@ -3,8 +3,12 @@
 ![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)
 ![Versão](https://img.shields.io/badge/Versão-1.0.0-brightgreen.svg)
 
+![Animação](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
 ## 🧑‍💻 Sobre Mayan Gabriel
 Olá! Eu sou **Mayan Gabriel**, um entusiasta da programação com uma paixão por resolver problemas e criar soluções inovadoras. Tenho experiência em diversas linguagens de programação, incluindo Python e C. Este repositório é um exemplo dos meus projetos e habilidades em programação.
+
+![Animação de Programação](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ## 🚀 Habilidades em Programação
 
@@ -19,6 +23,8 @@ C é uma linguagem poderosa que utilizo para desenvolvimento de sistemas e aplic
 - Desenvolvimento de Sistemas Operacionais
 - Programação de Microcontroladores e Dispositivos Embarcados
 - Aplicações de Alto Desempenho
+
+![Animação de Desenvolvimento](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ## 📜 Projetos
 - **Projeto 1**: Descrição do Projeto 1 em Python
