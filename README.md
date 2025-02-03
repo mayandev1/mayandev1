@@ -6,56 +6,44 @@
 ## 🧑‍💻 Sobre Mayan Gabriel
 Olá! Eu sou **Mayan Gabriel**, um entusiasta da programação com uma paixão por resolver problemas e criar soluções inovadoras. Tenho experiência em diversas linguagens de programação, incluindo Python e C. Este repositório é um exemplo dos meus projetos e habilidades em programação.
 
-![Personagem de Anime](https://media.giphy.com/media/QVreTkU8pNWfk/giphy.gif)
+---
 
 ## 🚀 Habilidades em Programação
 
 ### Python
 Python é uma das minhas linguagens favoritas devido à sua simplicidade e versatilidade. Aqui estão algumas áreas em que utilizo Python:
-- Desenvolvimento Web com Django e Flask
-- Análise de Dados e Machine Learning com Pandas e Scikit-Learn
-- Automação de Tarefas e Scripts
-
-![Personagem de Anime](https://media.giphy.com/media/RhEvCHIaYQeYKIzz3v/giphy.gif)
+- **Desenvolvimento Web**: Django, Flask
+- **Análise de Dados e Machine Learning**: Pandas, Scikit-Learn
+- **Automação de Tarefas e Scripts**
 
 ### C
 C é uma linguagem poderosa que utilizo para desenvolvimento de sistemas e aplicações de baixo nível. Algumas áreas em que utilizo C incluem:
-- Desenvolvimento de Sistemas Operacionais
-- Programação de Microcontroladores e Dispositivos Embarcados
-- Aplicações de Alto Desempenho
+- **Desenvolvimento de Sistemas Operacionais**
+- **Programação de Microcontroladores e Dispositivos Embarcados**
+- **Aplicações de Alto Desempenho**
 
-![Personagem de Anime](https://media.giphy.com/media/XGd9yD9YN4dSKhFbdD/giphy.gif)
+---
 
 ## 📜 Projetos
-- **Projeto 1**: Descrição do Projeto 1 em Python
-- **Projeto 2**: Descrição do Projeto 2 em C
-- **Projeto 3**: Descrição do Projeto 3 combinando Python e C
+
+- **Projeto 1**: Desenvolvimento de uma aplicação web completa em Python utilizando Django.
+- **Projeto 2**: Implementação de um sistema embarcado em C para controle de dispositivos IoT.
+- **Projeto 3**: Integração de soluções em Python e C para análise de dados em tempo real.
+
+---
 
 ## 🛠️ Ferramentas e Tecnologias
+
 - **Linguagens de Programação**: Python, C
 - **Frameworks**: Django, Flask
+- **Banco de Dados**: PostgreSQL, MySQL
 - **Ferramentas de Desenvolvimento**: VSCode, Git, Docker
+- **CI/CD**: GitHub Actions, Jenkins
+
+---
 
 ## 📦 Instalação e Uso
-1. Clone este repositório:
-    ```sh
-    git clone https://github.com/mayan-gabriel/seu-projeto.git
-    ```
-2. Navegue até o diretório do projeto:
-    ```sh
-    cd seu-projeto
-    ```
-3. Instale as dependências (para projetos Python):
-    ```sh
-    pip install -r requirements.txt
-    ```
-4. Compile o código (para projetos em C):
-    ```sh
-    gcc -o projeto main.c
-    ```
 
-## 🧪 Testes
-Para executar os testes, utilize o comando:
+### Clone o repositório
 ```sh
-pytest  # Para projetos em Python
-./projeto  # Para projetos em C
+git clone https://github.com/mayan-gabriel/seu-projeto.git
