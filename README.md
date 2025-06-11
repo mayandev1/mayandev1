@@ -1,49 +1,82 @@
-# Projeto de Mayan Gabriel
+# **Mayan Gabriel**  
 
-![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)
-![Versão](https://img.shields.io/badge/Versão-1.0.0-brightgreen.svg)
+**Desenvolvedor C & Python | Sistemas Embarcados | Soluções Criativas**  
 
-## 🧑‍💻 Sobre Mayan Gabriel
-Olá! Eu sou **Mayan Gabriel**, um entusiasta da programação com uma paixão por resolver problemas e criar soluções inovadoras. Tenho experiência em diversas linguagens de programação, incluindo Python e C. Este repositório é um exemplo dos meus projetos e habilidades em programação.
+```c
+#include <stdio.h>
+#include <python.h>
+
+int main() {
+    printf("Olá! Sou Mayan Gabriel\n");
+    printf("Desenvolvedor multidisciplinar com foco em:\n");
+    printf("- Sistemas em C\n");
+    printf("- Aplicações em Python\n");
+    printf("- Soluções eficientes\n");
+    return 0;
+}
+```
+
+## 🛠️ **Stack Técnica**  
+
+### 🖥️ **Linguagens**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 **Ferramentas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 🚀 **Projetos Destacados**
+
+### 🔹 **Projetos em C**
+1. **Projeto-Menu-C** - Sistema de gestão de inventário  
+   ✅ CRUD completo  
+   ✅ Validação de entrada robusta  
+   🔗 [Repositório](https://github.com/mayandev1/Projeto-Menu-C)
+
+2. **corrida-de-cavalos.c** - Jogo de simulação  
+   🎮 Lógica de jogo  
+   🔗 [Repositório](https://github.com/mayandev1/corrida-de-cavalos)
+
+### 🔹 **Projetos em Python**
+1. **Campo-Minado.py** - Jogo clássico  
+   💣 Lógica de tabuleiro  
+   🔗 [Repositório](https://github.com/mayandev1/Campo-Minado.py)
+
+2. **Cadastro-de-Eletronicos.py** - Sistema de gerenciamento  
+   📋 CRUD para dispositivos eletrônicos  
+   🔗 [Repositório](https://github.com/mayandev1/Cadastro-de-Eletronicos.py)
+
+3. **App-cadastro.py** - Sistema de cadastro  
+   📝 Interface simplificada  
+   🔗 [Repositório](https://github.com/mayandev1/App-cadastro.py)
+
+## 🌱 **Atualmente Aprendendo**  
+- Otimização de performance em C
+- Django para desenvolvimento web
+- IoT com MicroPython
+
+## 📫 **Conecte-se**  
+
+[![GitHub](https://img.shields.io/badge/GitHub-mayandev1-black?style=for-the-badge&logo=github)](https://github.com/mayandev1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayan_Gabriel-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mayan-gabriel)
+
+```python
+def colaborar():
+    print("Vamos criar algo incrível juntos!")
+    print("Disponível para:")
+    print("- Projetos open-source")
+    print("- Desafios técnicos")
+    print("- Ideias inovadoras")
+```
 
 ---
 
-## 🚀 Habilidades em Programação
+"Transformo café em código eficiente." - Mayan Gabriel  
 
-### Python
-Python é uma das minhas linguagens favoritas devido à sua simplicidade e versatilidade. Aqui estão algumas áreas em que utilizo Python:
-- **Desenvolvimento Web**: Django, Flask
-- **Análise de Dados e Machine Learning**: Pandas, Scikit-Learn
-- **Automação de Tarefas e Scripts**
-
-### C
-C é uma linguagem poderosa que utilizo para desenvolvimento de sistemas e aplicações de baixo nível. Algumas áreas em que utilizo C incluem:
-- **Desenvolvimento de Sistemas Operacionais**
-- **Programação de Microcontroladores e Dispositivos Embarcados**
-- **Aplicações de Alto Desempenho**
+📅 Última atualização: Jun/2025  
 
 ---
 
-## 📜 Projetos
-
-- **Projeto 1**: Desenvolvimento de uma aplicação web completa em Python utilizando Django.
-- **Projeto 2**: Implementação de um sistema embarcado em C para controle de dispositivos IoT.
-- **Projeto 3**: Integração de soluções em Python e C para análise de dados em tempo real.
-
----
-
-## 🛠️ Ferramentas e Tecnologias
-
-- **Linguagens de Programação**: Python, C
-- **Frameworks**: Django, Flask
-- **Banco de Dados**: PostgreSQL, MySQL
-- **Ferramentas de Desenvolvimento**: VSCode, Git, Docker
-- **CI/CD**: GitHub Actions, Jenkins
-
----
-
-## 📦 Instalação e Uso
-
-### Clone o repositório
-```sh
-git clone https://github.com/mayan-gabriel/seu-projeto.git
+🎯 **Versão markdown disponível no [Gist](https://gist.github.com/mayandev1)**
