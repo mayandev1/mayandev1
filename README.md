@@ -4,6 +4,7 @@
 - 🎓 Studying Information Systems at Federal University of Piauí (UFPI)
 - 🌱 Currently learning **Java, JavaScript and database systems (MySQL)**
 - 📫 How to reach me **mayangabriel654@gmail.com**
+- 👨‍💻 Interests: AI, Logic Programming, Backend Architecture
 - ⚡ Fun fact **I play drums in my spare time**
 
 <h3 align="left">📊 GitHub Stats</h3>
