@@ -1,29 +1,59 @@
-<h1 align="center">Hi 👋, I'm Mayan Gabriel</h1>
-<h3 align="center">A backend-focused developer from Brazil</h3>
+<h1 align="center">Mayan Gabriel</h1>
+<h3 align="center">Future Data Analyst • Developer • Data-Driven Mindset</h3>
 
-- 🎓 Studying Information Systems at Federal University of Piauí (UFPI)
-- 🌱 Currently learning **Java, JavaScript and database systems (MySQL)**
-- 📫 How to reach me **mayangabriel654@gmail.com**
-- 👨‍💻 Interests: AI, Logic Programming, Backend Architecture
-- ⚡ Fun fact **I play drums in my spare time**
+<p align="center">
+  Transforming data into meaningful visual experiences 📊
+</p>
 
-<h3 align="left">📊 GitHub Stats</h3>
+## 🚀 About Me
+
+- 🎓 Information Systems student at **UFPI**
+- 💡 Focused on **Data Analysis & Data Engineering**
+- 🧠 Passionate about **data, dashboards, and problem solving**
+- 🌱 Currently learning **Java, JavaScript, and Databases (MySQL)**
+- 🥁 Fun fact: I play drums in my spare time
+
+
+## 💰 Featured Project
+
+## 🔗 Cashlytics — Personal Finance Dashboard  
+A modern dashboard focused on **data visualization and user experience**
+
+**What I built:**
+- 📊 Interactive charts (Chart.js)
+- 💸 Transaction tracking system
+- 🔍 Filters by month and type
+- 💾 Data persistence with localStorage
+
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayandev1&show_icons=true&theme=tokyonight" alt="GitHub Stats - mayandev1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayandev1&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages - mayandev1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayandev1&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayandev1&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayan-gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayan-gabriel" height="30" width="40" /></a>
-<a href="https://instagram.com/mayantgmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mayantgmz" height="30" width="40" /></a>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://instagram.com/mayan-gabriel">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mayantgmz">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
