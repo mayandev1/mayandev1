@@ -28,5 +28,5 @@ I'm an Information Systems student at **UFPI**, focused on data analysis and bui
 
 <div align="center" style="margin-top: 10px;">
   <img src="images/duke-terraria.gif" width="80" alt="Coding GIF">
-  <p style="font-size: 12px; color: #888;">Code. Repeat.</p>
+  <p style="font-size: 12px; color: #888;">Code and be strong.</p>
 </div>
