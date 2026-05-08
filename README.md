@@ -25,3 +25,8 @@ I'm an Information Systems student at **UFPI**, focused on data analysis and bui
 <a href="https://linkedin.com/in/mayantgmz">linkedin</a> &nbsp;•&nbsp;
 <a href="https://instagram.com/mayan-gabriel">instagram</a> &nbsp;•&nbsp;
 <a href="https://dashboardcashlytics.netlify.app/">cashlytics</a>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="images/duke-terraria.gif" width="80" alt="Coding GIF">
+  <p style="font-size: 12px; color: #888;">Code. Repeat.</p>
+</div>
